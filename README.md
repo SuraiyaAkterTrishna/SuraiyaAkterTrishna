@@ -6,7 +6,6 @@
 </div>
 
 I am a MERN Stack Developer with a huge love for React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, TailwindCSS and Firebase. Currently, **I'm open to work and employment opportunities**.
-
 I love to read books and to travel many new places.
 
 - 🔭 I’m currently working at **Full-stack development project**.
