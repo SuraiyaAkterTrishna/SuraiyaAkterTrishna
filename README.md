@@ -17,9 +17,9 @@ I love to read books and to travel many new places.
 - 👨‍💻 My Portfolio [https://personal-portfolio-suraiya.netlify.app](https://personal-portfolio-suraiya.netlify.app)
 - 😄 Pronouns: `dreamer, Coder`.
 - ⚡ Fun fact: Almost that **I forget everything**.
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical" alt="" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuraiyaAkterTrishna&layout=compact" alt="" />
+<div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical" alt="" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuraiyaAkterTrishna&layout=compact" alt="" />
+</div>
 
 ## My Skills
 
