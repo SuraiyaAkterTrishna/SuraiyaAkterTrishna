@@ -19,7 +19,9 @@ I love to read books and to travel many new places.
 - 😄 Pronouns: `dreamer, Coder`.
 - ⚡ Fun fact: Almost that **I forget everything**.
 ## My Skills
-
+Expertise: React.js, Node.js, Express.js, MongoDB atlas, JavaScript, Firebase, HTML5, CSS3, Tailwind CSS, Bootstrap.
+Comfortable: Rechart, Axios, Mongoose, Stripe, GitHub, Netlify, Heroku, Figma, JWT token, Firebase Hosting, Browser Dev Tools, React Component Libraries.
+Familier: TypeScript, Material UI, Next.js, Redux, Python, Data structure, Algorithm.
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
