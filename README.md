@@ -19,6 +19,7 @@ I love to read books and to travel many new places.
 - ⚡ Fun fact: Almost that **I forget everything**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuraiyaAkterTrishna&layout=compact)](https://github.com/SuraiyaAkterTrishna/github-readme-stats)
 ## My Skills
 
 ### Expertise
