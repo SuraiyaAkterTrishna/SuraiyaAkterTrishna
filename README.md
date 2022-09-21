@@ -18,8 +18,8 @@ I love to read books and to travel many new places.
 - 😄 Pronouns: `dreamer, Coder`.
 - ⚡ Fun fact: Almost that **I forget everything**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical" alt="" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuraiyaAkterTrishna&layout=compact" alt="" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical" alt="" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuraiyaAkterTrishna&layout=compact" alt="" />
 
 ## My Skills
 
