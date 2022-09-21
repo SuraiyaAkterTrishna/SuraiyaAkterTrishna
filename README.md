@@ -8,7 +8,7 @@ I am a MERN Stack Developer with a huge love for React.js, Node.js, Express.js, 
 
 - 🔭 I’m currently working at **Full-stack development project**.
 - 🌱 I’m currently learning **TypeScript, Redux, Next.js**.
-- 👯 I’m currently open for work and employment opportunities **( remote and onsite )**.
+- 👯 I’m currently looking for work and employment opportunities **( remote and onsite )**.
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, MongoDB**.
 - :computer: My passion is `Programming & Coding`.
 - 📫 I am just one mail away - [ suraiyaaktertrishna@gmail.com. ]
