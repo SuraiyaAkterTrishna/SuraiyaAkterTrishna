@@ -47,7 +47,7 @@ I love to read books and to travel many new places.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuraiyaAkterTrishna&theme=radical)
 
 ## Where to find me
 
